@@ -1,2 +1,3 @@
 # machine-learning-models
-复现一些机器学习模型
+
+Reproduce the classic machine learning models, including the source code, data and test results.
